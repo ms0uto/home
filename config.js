@@ -30,8 +30,8 @@ const CONFIG = {
 
   // Autochange by hour options (24hrs format, string must be in: hh:mm)
   changeThemeByHour: true,
-  hourDarkThemeActive: '18:30',
-  hourDarkThemeInactive: '07:00',
+  hourDarkThemeActive: '07:00',
+  hourDarkThemeInactive: '06:59',
 
   // Cards
 
@@ -47,7 +47,7 @@ const CONFIG = {
       id: '2',
       name: 'Mail',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://gmail.com/',
     },
     {
       id: '3',
@@ -71,7 +71,7 @@ const CONFIG = {
       id: '6',
       name: 'Odysee',
       icon: 'youtube',
-      link: 'https://odysee.com/',
+      link: 'https://youtube.com/',
     },
   ],
 

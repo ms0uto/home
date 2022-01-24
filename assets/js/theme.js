@@ -1,7 +1,3 @@
-// ┌┬┐┬ ┬┌─┐┌┬┐┌─┐
-//  │ ├─┤├┤ │││├┤
-//  ┴ ┴ ┴└─┘┴ ┴└─┘
-
 // Store the theme
 let darkTheme = localStorage.getItem('darkTheme');
 const themeToggle = document.querySelector('#themeButton');
