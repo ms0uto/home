@@ -41,7 +41,7 @@ const CONFIG = {
       id: '1',
       name: 'Github',
       icon: 'github',
-      link: 'https://github.com/',
+      link: 'https://github.com/ms0uto',
     },
     {
       id: '2',
